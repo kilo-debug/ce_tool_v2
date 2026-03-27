@@ -8,4 +8,4 @@ streamlit
 chromadb
 openai
 google-genai
-altair
+altair.vegalite.v4
