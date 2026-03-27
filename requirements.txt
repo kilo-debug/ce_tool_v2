@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+huggingface_hub
+requests
+streamlit
+chromadb
+openai
+google-genai
+altair
